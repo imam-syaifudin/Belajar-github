@@ -6,3 +6,6 @@ HERO ML
 - Pharsa
 - Hylos
 - Diggie
+- Miya
+- Layla
+- Claude
