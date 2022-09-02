@@ -5,7 +5,3 @@ HERO ML
 - Gord
 - Pharsa
 - Hylos
-- Diggie
-- Miya
-- Layla
-- Claude
