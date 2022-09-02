@@ -7,5 +7,6 @@ RENCANA KONTENT UNPAS
   * Angular JS
 - CSS Framework
   * Boostrap
+- Laravel 9
 - CI
 - Github
