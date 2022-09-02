@@ -4,7 +4,8 @@ RENCANA KONTENT UNPAS
   * Express JS
   * Node JS
   * React JS
+  * Angular JS
 - CSS Framework
   * Boostrap
-- Laravel 9
+- CI
 - Github
